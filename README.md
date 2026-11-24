@@ -20,3 +20,7 @@ Three candidates were drafted and compared against the judge brief (an alien tou
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## A note on the writing
+
+Travel reviews live or die on one specific, slightly baffled observation, so I gave the visitor exactly one: the door. It is the most ordinary human invention imaginable, and the knocking ritual around it genuinely would look strange from outside — a polite announcement that you are checking whether someone is hiding from you. The withheld fifth star is the reviewer's quiet revenge for never getting an answer.
